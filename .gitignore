@@ -1,0 +1,11 @@
+logs/*
+!.gitkeep
+node_modules/
+tmp
+.idea
+.DS_Store
+angular-phonecat-snapshots
+bower_components/
+src/main/webapp/js/dependencies/*
+target/
+*.iml
